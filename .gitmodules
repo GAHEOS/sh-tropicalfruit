@@ -1,0 +1,4 @@
+[submodule "GAHEOS/odoo-hr"]
+	path = GAHEOS/odoo-hr
+	url = git@github.com:GAHEOS/odoo-hr.git
+	branch = 14.0
