@@ -7,3 +7,8 @@
 	path = GAHEOS/odoo-ec
 	url = git@github.com:GAHEOS/odoo-ec.git
 	branch = 14.0
+
+[submodule "GAHEOS/odoo-latam"]
+	path = GAHEOS/odoo-latam
+	url = git@github.com:GAHEOS/odoo-latam.git
+	branch = 14.0
